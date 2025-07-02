@@ -1,1 +1,2 @@
-learning react-native basics
+- learning react-native basics
+- auth and database - appwrite 
